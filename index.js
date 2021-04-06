@@ -20,7 +20,7 @@ CFonts.say(`${package.name}@^${package.version}\nCustomizable WhatsApp BOT\nSGDC
 
 })
 
-CFonts.say('IPAN XYZ', {
+CFonts.say('MUHAMMAD AFDHAN', {
 
   font: 'console',
 
