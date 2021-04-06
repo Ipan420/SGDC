@@ -9,7 +9,7 @@ CFonts.say(`${package.name}@^${package.version}\n${package.description}`, {
   align: 'center',
   gradient: ['red', 'green']
 })
-CFonts.say('MUHAMMAD AFDHAN', {
+CFonts.say('IPAN-XYZ, {
   font: 'console',
   align: 'center',
   gradient: ['red', 'magenta']
