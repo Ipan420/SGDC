@@ -2,7 +2,7 @@ let handler = function (m) {
   this.sendContact(m.chat, '6282286818715', ' IPAN-XYZ || @Pan✓', m)
 m.reply('wa.me/6282286818715')
 //let pp_owner ='src/Owner.jpg'
-//conn.sendFile(m.chat, pp_owner, 'My Owner.jpg', '*This is my owner ᴍ ᴀꜰᴅʜᴀɴ*\n*Contact: https://wa.me/6282286818715*', m)
+//conn.sendFile(m.chat, pp_owner, 'My Owner.jpg', '*This is my owner IPAN-XYZ*\n*Contact: https://wa.me/6282286818715*', m)
 }
 
 handler.command = /^(owner|creator)$/i
