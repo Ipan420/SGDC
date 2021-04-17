@@ -41,6 +41,7 @@ _if you violate, your account will be banned permanently!_
 *> Don't Video Calls !!!*
 *━━━━━━━━━━━━━━━━━━━━━*
 ${readMore}
+       [IPAN-XYZ]*
 *┏━━━━━━━━━━━━━━━━━━━┓*
 *┃                      [ • SGDC-BOT • ]*
 *┃╭═════════════════╮*
@@ -51,7 +52,7 @@ ${readMore}
 *┃║ Version :     ${vers}*
 *┃║ MultiPrefix :「 ${_p} 」*
 *┃╰═════════════════╯*
-*┃      |IPAN-XYZ|MENU ON SGDC-BOT*
+*┃              MENU ON SGDC-BOT*
 *┃╭═════════════════╮*
 *┃║ ${_p}exo*
 *┃║ ${_p}bts*
