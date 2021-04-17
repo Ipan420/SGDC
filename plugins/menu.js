@@ -51,7 +51,7 @@ ${readMore}
 *┃║ Version :     ${vers}*
 *┃║ MultiPrefix :「 ${_p} 」*
 *┃╰═════════════════╯*
-*┃                 MENU ON SGDC-BOT*
+*┃      |IPAN-XYZ|MENU ON SGDC-BOT*
 *┃╭═════════════════╮*
 *┃║ ${_p}exo*
 *┃║ ${_p}bts*
