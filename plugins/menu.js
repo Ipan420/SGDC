@@ -41,7 +41,7 @@ _if you violate, your account will be banned permanently!_
 *> Don't Video Calls !!!*
 *━━━━━━━━━━━━━━━━━━━━━*
 ${readMore}
-          *[IPAN-XYZ]*
+          *OWNER•[IPAN-XYZ]*
 *┏━━━━━━━━━━━━━━━━━━━┓*
 *┃                      [ • SGDC-BOT • ]*
 *┃╭═════════════════╮*
