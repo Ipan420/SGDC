@@ -1,10 +1,10 @@
 let sgdc = require('./sgdc.json')
 
 global.owner = [(sgdc.owner)]
-global.mods = ['6282286818715','6283159600193']
+global.mods = ['6282286818715','+1(413)2289468']
 global.packname = (sgdc.packname)
 global.author = (sgdc.author)
-global.prems = ['6282286818715','6283122891105']
+global.prems = ['6282286818715','+1(413)2289468']
 global.APIs = { 
   nrtm: 'https://nurutomo.herokuapp.com',
   xteam: 'https://api.xteam.xyz'
